@@ -1,7 +1,8 @@
 # EU_arable_SOC
-<img width="712" height="571" alt="Screenshot 2026-03-23 at 23 12 03" src="https://github.com/user-attachments/assets/6e33ca80-520c-4b88-9839-e9f3c7bd1e24" />
-
 Mapping soil organic carbon content across European arable land suing Sentinel-2 bare soil reflectance, together with climatic and topographic data.
+
+<img width="711" height="568" alt="Screenshot 2026-03-23 at 23 12 03" src="https://github.com/user-attachments/assets/357d0d26-d553-4ede-ac45-ba622b07ed9b" />
+
 
 ## Introduction
 The aim of this study is to improve spatial resolution and accuracy of SOC content predictions over arable land derived from Sentinel-2 bare soil reflectance (and other covariates!) at European scale.
